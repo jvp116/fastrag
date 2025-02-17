@@ -1,0 +1,63 @@
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.env/
+*.env
+*.venv
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e Debug
+*.log
+*.out
+
+# Arquivos de Build
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Arquivos Temporários
+*.tmp
+*.bak
+*.orig
+
+# Dados Sensíveis
+*.db
+*.sqlite3
+.env*
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Docker
+*.dockerignore
+
+# Coverage
+.coverage
+htmlcov/
+
+# Mypy
+.mypy_cache/
+
+# Arquivos gerados pelo Jupyter
+*.ipynb_checkpoints
+
+# Outros
+.DS_Store
+Thumbs.db
